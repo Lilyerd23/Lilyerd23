@@ -1,4 +1,4 @@
-# Hello! Soy Lily Frontend Devloper y PM
+# Hello! Soy Lily Frontend Developer y PM
 
 ## About me
 Hola! Soy una apasionada por la tecnologia e innovación, con foco en Angular así como la gestión de proyectos de TI. Mi camino en la tecnología inció desarollando sistemas pequeños a mas complejos asi como liderar proyectos más grandes
